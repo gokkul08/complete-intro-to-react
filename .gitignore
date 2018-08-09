@@ -11,3 +11,5 @@ _site/
 .sass-cache/
 *.iml
 .idea/
+.vscode/
+package-lock.json
